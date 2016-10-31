@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: powderblue;
+    height:100%;
+}
+audio{
+    display:none;
+}
+
+#score{
+
+    font-size: 40px;
+}
+
+#intro{
+    z-index: 300;
+    position:fixed;
+    top: 0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    background-color:royalblue;
+}
+
+img{
+  margin-top: 100px;
+
+}
+.playerChoice{
+    padding-top: 70px;
+    font-size: 40px;
+    color:white;
+
+}
+
+img:hover{
+    border: 2px solid blue  ;
+}
